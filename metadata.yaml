@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '35075'
     url: http://www.gutenberg.org/2009/agents/35075
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37602#A-Synopsis-of-Neotropical-Hylid-Frogs-Genus-Osteocephalus
 gutenberg_issued: '2011-10-03'
 gutenberg_type: Text
 identifiers:
